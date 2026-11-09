@@ -5,7 +5,7 @@ import Header from "../components/common/Header";
 import StatCard from "../components/common/StatCard";
 import UsersTable from "../components/users/UsersTable";
 import UserGrowthChart from "../components/users/UserGrowthChart";
-import UserActivityHeatmap from "../components/users/UserActivityHeatmap";
+import UserActivityHeatmap from "../components/users/UserActivityHeatMap";
 import UserDemographicsChart from "../components/users/UserDemographicsChart";
 
 const userStats = {
